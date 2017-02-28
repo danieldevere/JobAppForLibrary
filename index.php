@@ -19,8 +19,6 @@
   <body>
     <div id="container">
       <div id="body">
-        
-     
     <div class="container">
       <div class="header">
         <h3>
