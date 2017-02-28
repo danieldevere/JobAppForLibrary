@@ -2,8 +2,6 @@
 <html>
   <head>
 
-
-
    <!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
@@ -21,42 +19,13 @@
   <body>
     <div id="container">
       <div id="body">
-        
-     
     <div class="container">
       <div class="header">
         <h3>
           Create an Account
         </h3>
       </div>
-      <!--
-      <div class="row well">
-        <div class="col-sm-2">
-          <a href="page1.php">page1.php</a>
-        </div>
-        <div class="col-sm-2">
-          <a href="page2.php">page2.php</a>
-        </div>
-        <div class="col-sm-2">
-          <a href="page3.php">page3.php</a>
-        </div>
-        <div class="col-sm-2">
-          <a href="page4.php">page4.php</a>
-        </div>
-        <div class="col-sm-2">
-          <a href="page5.php">page5.php</a>
-        </div>
-        <div class="col-sm-2">
-          <a href="page6.php">page6.php</a>
-        </div>
-        <div class="col-sm-2">
-          <a href="page7.php">page7.php</a>
-        </div>
-        <div class="col-sm-2">
-          <a href="finalPage.php">finalPage.php</a>
-        </div>
-      </div>
--->
+
       <form action="page1.php" method="POST" id="indexForm">
         <div class="col-sm-6">
           <div class="form-group col-sm-12">
